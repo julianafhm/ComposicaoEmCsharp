@@ -1,5 +1,4 @@
-﻿
-namespace Composicao.Entities
+﻿namespace Composicao.Entities
 {
     internal class Departament
     {

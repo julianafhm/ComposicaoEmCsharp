@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using Composicao.Entities.Enums;
-
-namespace Composicao.Entities
+﻿namespace Composicao.Entities
 {
     internal class Worker
     {
